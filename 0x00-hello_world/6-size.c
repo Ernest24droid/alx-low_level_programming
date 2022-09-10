@@ -2,22 +2,22 @@
 
 /**
  *
- * main - Prints  program that prints the size of various types on the computer it is compiled and run on
+ * main - Prints various types of var
  *
  * Return: Always 0 (Executable)
  */
 int main(void)
 {
-	char a;
-	int b;
-	long int c;
-	long long int d;
-	float e;
+ int a;
+ long int b;
+ long long int c;
+ char d;
+ float f;
 
-          printf("Size of char: %d byte(s)\n", sizeof (a));
-          printf("Size of int: %d byte(s)\n", sizeof (b));
-          printf("Size of long int: %d byte(s)\n", sizeof (c);
-	  printf("Size of long long int: %d byte(s)\n", sizeof (d));
-          printf("Size of float: %d byte(s)\n", sizeof (e));
-          return (0);
+    printf("size of a char: %lu byte(s)\n", (unsigned long)sizeof(d));
+    printf("size of an int: %lu byte(s)\n", (unsigned long)sizeof(a));
+    printf("size of a long int: %lu byte(s)\n" (unsigned long)sizeof(b));
+    printf("size of a long long int: %lu byte(s)\n", (unsigned long)sizeof(d));
+    printf("size of a float: %lu byte(s)\n", (unsigned long)sizeof(f));
+  return (0);
 }

@@ -1,11 +1,10 @@
 #include <stdio.h>
+
 /**
  *
  * main - Prints scripts text in c
  *
- * Description: Using the main function
- * This program prints "Programming is like a multilingial puzzle" 
- * Return: 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {	
