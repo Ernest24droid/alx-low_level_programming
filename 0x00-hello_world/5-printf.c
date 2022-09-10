@@ -4,7 +4,7 @@
  *
  * main - Prints text 2 in C
  *
- * Return: Always 0 -(Executable)
+ * Return: Always 0 (Executable)
  */
 int main(void)
 {	
