@@ -6,3 +6,4 @@ prints all single digit numbers of base 10 starting from 0, followed by a new li
 Repeat number 5
  a program that prints the lowercase alphabet in reverse, followed by a new line.
 a program that prints all possible combinations of single-digit numbers
+ program that prints all possible different combinations of two digits.
